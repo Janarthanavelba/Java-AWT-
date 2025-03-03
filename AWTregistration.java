@@ -1,4 +1,4 @@
-/*  AWT Registration Form with ActionListener in Java  */
+/* AWT Registration Form with ActionListener in Java  */
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
